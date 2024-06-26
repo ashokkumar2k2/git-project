@@ -1,0 +1,25 @@
+html{
+    background-color: whitesmoke;
+}
+body{
+    color: rgb(46, 27, 27);
+  
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: medium;
+    text-align: justify;
+    margin: 3px;
+}
+i{
+    font-size: 200px;
+}
+h1,h2,h3,h4{
+    text-align: start;
+    margin-left: 10px;
+}
+i{
+align-items: center;
+}
